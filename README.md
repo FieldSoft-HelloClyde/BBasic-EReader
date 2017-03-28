@@ -3,6 +3,7 @@ a txt reader for bbasic
 
 ## detail
 1.import txt file by import tool on PC
+
 2.run EReader
 
 ## snap
